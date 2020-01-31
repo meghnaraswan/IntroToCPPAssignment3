@@ -1,1 +1,1 @@
-# IntroToCPPAssignment3
+# CPSC 298 (Intro to C++): Assignment 3
